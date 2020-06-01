@@ -1,0 +1,18 @@
+{
+	"short_name": "Fav Links",
+	"name": "Favourite Links",
+	"version": "1.0.0",
+	"manifest_version": 2,
+	"description": "A browser based link bookmarking tool",
+	"browser_action": {
+		"default_icon": "logo192.png",
+		"default_popup": "popup.html"
+	},
+	"icons": {
+		"512": "logo512.png"
+	},
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
